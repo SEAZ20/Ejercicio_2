@@ -8,3 +8,16 @@
 	display: flex;
     align-items: center;
 }
+.subtitulos{
+  height: 35px;
+  width: 1300px;
+  color: #040000;
+  border: 2px solid  #ABA5A5;
+  display: flex;
+  align-items: center;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 15px;
+  padding-left: 5px;
+  border-bottom-right-radius: 15px;
+}
