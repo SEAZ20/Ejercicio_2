@@ -1,1 +1,10 @@
-estilo.css
+.colorcaja{
+	height: 65px;
+	width: 1300px;
+	background-color: #413971;
+	padding-left: 5px;
+	color:#FFFFFF;
+	border: 3px solid #F7B924;
+	display: flex;
+    align-items: center;
+}
